@@ -1,0 +1,6 @@
+{
+  "name": "Secret Chat",
+  "description": "Encrypt and decrypt text messages into numeric codes using a numeric password.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
